@@ -25,10 +25,10 @@ The project demonstrates **Object-Oriented Programming (OOP)** principles, the u
 ![Main Menu](Images/ReadMe/Menu.png)
 
 ### Player Wins
-![Game](images/ReadMe/Game.png)
+![Game](Images/ReadMe/Game.png)
 
 ### Draw Screen
-![Draw Screen](images/ReadMe/Draw.png)
+![Draw Screen](Images/ReadMe/Draw.png)
 
 ---
 
