@@ -19,6 +19,17 @@ The project demonstrates **Object-Oriented Programming (OOP)** principles, the u
 - [CC212SGL Graphics Library](#) (make sure it is installed/configured)
 - Windows Command Prompt (tested environment)
 
+## 📷 Screenshots
+
+### Game Board
+![Main Menu](Images/ReadMe/Menu.png)
+
+### Player Wins
+![Game](images/ReadMe/Game.png)
+
+### Draw Screen
+![Draw Screen](images/ReadMe/Draw.png)
+
 ---
 
 ## 🚀 Build & Run
@@ -32,16 +43,6 @@ g++ -std=c++17 main.cpp -o TicTacToe -lCC212SGL
 Run the game
 ./TicTacToe
 
-## 📷 Screenshots
-
-### Game Board
-![Main Menu](Images/ReadMe/Menu.png)
-
-### Player Wins
-![Game](images/ReadMe/Game.png)
-
-### Draw Screen
-![Draw Screen](images/ReadMe/Draw.png)
 
 
 ---
