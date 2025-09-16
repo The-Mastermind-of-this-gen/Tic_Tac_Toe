@@ -42,7 +42,7 @@ cd Tic_Tac_Toe
 g++ -std=c++17 main.cpp -o TicTacToe -lCC212SGL
 Run the game
 ./TicTacToe
-
+```
 
 
 ---
